@@ -58,7 +58,7 @@ export default function Index() {
           {/* Attendance */}
           <div className="bg-[#e6f4e6] rounded-xl p-4 text-sm text-gray-700">
             <p className="font-medium mb-1">Attendance</p>
-            <p className="text-xl text-green-700 font-bold">68.68%</p>
+            <p className="text-xl text-green-700 font-bold">61.70%</p>
             <p className="text-xs text-gray-500 mt-1">
               As on Jun 08, 16:06 PM
             </p>
@@ -76,7 +76,7 @@ export default function Index() {
 
         {/* Footer */}
         <div className="text-center text-xs text-gray-500 mt-8">
-          Welcome to <strong>CAMPX</strong>
+          Welcome to <strong>Attend Up</strong>
         </div>
       </div> {/* ✅ Responsive container ends */}
     </div>
